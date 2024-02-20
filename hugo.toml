@@ -16,3 +16,12 @@ theme = 'ananke'
     name = 'Services'
     pageRef = '/services'
     weight = 30
+
+[[menus.footer]]
+    name = 'Terms'
+    pageRef = '/terms'
+    weight = 10
+[[menus.footer]]
+    name = 'Privacy'
+    pageRef = '/privacy'
+    weight = 20
