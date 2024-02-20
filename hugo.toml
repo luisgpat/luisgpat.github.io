@@ -13,6 +13,6 @@ theme = 'ananke'
     pageRef = '/products'
     weight = 20
 [[menus.main]]
-    name = 'Services'
-    pageRef = '/services'
+    name = 'CV'
+    pageRef = '/CV.pdf'
     weight = 30
