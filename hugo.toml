@@ -23,12 +23,12 @@ theme = 'ananke'
     pageRef = '/services'
     weight = 20
 [[menus.main]]
-    name = 'Hugo'
+    name = 'CV'
     pre = '<i class="fa fa-heart"></i>'
-    url = 'https://gohugo.io/'
+    url = '/CV.pdf'
     weight = 30
     [menus.main.params]
-      rel = 'external'
+      rel = 'internal'
 
 [[menus.footer]]
     name = 'Terms'
