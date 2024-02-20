@@ -25,7 +25,7 @@ theme = 'ananke'
 [[menus.main]]
     name = 'CV'
     pre = '<i class="fa-regular fa-heart"></i>'
-    url = '/CV.pdf'
+    url = '/cv.pdf'
     weight = 30
     [menus.main.params]
       rel = 'internal'
