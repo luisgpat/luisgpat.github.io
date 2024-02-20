@@ -1,7 +1,7 @@
 +++
 title = 'Lorem Ipsum'
 date = 2024-02-19T20:25:50-05:00
-draft = true
+draft = false
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sed cursus tortor. Morbi pellentesque nunc ac neque semper, vel volutpat urna faucibus. Nunc vitae ultricies erat. Proin pellentesque mi a tellus dignissim, quis tempor mi tincidunt. Vivamus sodales commodo rhoncus. Suspendisse consequat augue at dui dapibus, at tempor ex posuere. Proin sagittis volutpat ornare.
