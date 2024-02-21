@@ -1,6 +1,6 @@
 baseURL = 'https://luisgpat.github.io'
 languageCode = 'en-us'
-title = 'luisgpat.github.io'
+title = 'Luigo'
 theme = 'hugo-coder'
 
 defaultcontentlanguage = "en"
@@ -17,7 +17,7 @@ style = "github-dark"
   info = "Hardware and Networking Engineer"
   description = "Luis Site"
   keywords = "blog,developer,personal"
-  avatarurl = "static/me.jpg"
+  avatarurl = "me.jpg"
   #gravatar = "luisg.pat@gmail.com"
 
   faviconSVG = "/img/favicon.svg"
@@ -49,7 +49,7 @@ style = "github-dark"
   url = "https://github.com/luisgpat"
 [[params.social]]
   name = "LinkedIn"
-  icon = "fa-brands fa-linkedin"
+  icon = "fa-brands fa-linkedin fa-2x"
   weight = 2
   url = "www.linkedin.com/in/luisg-pat"
 
