@@ -17,7 +17,7 @@ style = "github-dark"
   info = "Hardware and Networking Engineer"
   description = "Luis Site"
   keywords = "blog,developer,personal"
-  avatarurl = "static/ne.jpg"
+  avatarurl = "static/me.jpg"
   #gravatar = "luisg.pat@gmail.com"
 
   faviconSVG = "/img/favicon.svg"
