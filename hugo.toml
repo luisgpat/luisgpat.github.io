@@ -20,11 +20,8 @@ style = "github-dark"
   avatarurl = "me.jpg"
   #gravatar = "luisg.pat@gmail.com"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  since = 2023
 
   enableTwemoji = true
 
