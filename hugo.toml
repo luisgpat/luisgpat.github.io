@@ -23,6 +23,9 @@ style = "github-dark"
 
   enableTwemoji = true
 
+  faviconSVG = "favicon.svg"
+  favicon_32 = "favicon-32x32.png"
+  favicon_16 = "favicon-16x16.png"
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
