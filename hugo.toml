@@ -7,7 +7,6 @@ defaultcontentlanguage = "en"
 
 paginate = 20
 
-disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
 style = "github-dark"
@@ -55,6 +54,10 @@ style = "github-dark"
   name = "Blog"
   weight = 1
   url  = "posts/"
+[[menu.main]]
+  name = "Projects"
+  weight = 2
+  url = "Projects/"
 [[menu.main]]
   name = "About"
   weight = 2
