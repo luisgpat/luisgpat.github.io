@@ -51,7 +51,7 @@ style = "github-dark"
   name = "LinkedIn"
   icon = "fa-brands fa-linkedin fa-2x"
   weight = 2
-  url = "www.linkedin.com/in/luisg-pat"
+  url = "https://www.linkedin.com/in/luisg-pat"
 
 # Menu links
 [[menu.main]]
