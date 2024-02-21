@@ -14,10 +14,9 @@ style = "github-dark"
 [params]
   author = "Luis Gonzalo Patiño Uribe"
   info = "Hardware and Networking Engineer"
-  description = "Luis Site"
+  description = "Luis Gonzalo's personal Site"
   keywords = "blog,developer,personal"
   avatarurl = "me.jpg"
-  gravatar = "luisg.pat@gmail.com"
 
 
   since = 2023
