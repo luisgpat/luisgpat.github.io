@@ -1,7 +1,7 @@
 baseURL = 'https://luisgpat.github.io'
 languageCode = 'en-us'
 title = 'Luigo'
-theme = 'aafu'
+theme = 'hugo-coder'
 
 defaultcontentlanguage = "en"
 
