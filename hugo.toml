@@ -1,7 +1,7 @@
 baseURL = 'https://luisgpat.github.io'
 languageCode = 'en-us'
 title = 'luisgpat.github.io'
-theme = 'ananke'
+theme = 'hugo-coder'
 
 [menus]
 [[menus.main]]
