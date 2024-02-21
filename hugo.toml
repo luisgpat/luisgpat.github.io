@@ -17,7 +17,7 @@ style = "github-dark"
   description = "Luis Site"
   keywords = "blog,developer,personal"
   avatarurl = "me.jpg"
-  #gravatar = "luisg.pat@gmail.com"
+  gravatar = "luisg.pat@gmail.com"
 
 
   since = 2023
@@ -60,5 +60,5 @@ style = "github-dark"
   url = "Projects/"
 [[menu.main]]
   name = "About"
-  weight = 2
+  weight = 3
   url = "about/"
