@@ -11,6 +11,7 @@ Currently, I'm an IT Systems Administrator at [Academia T&T](http://catc.unal.ed
 [![PDF logon](/file-pdf-solid.svg)](/cv.pdf)
 
 <div><a href="bar">*foo*</a></div>
+
 ## Interests and Expertise
 
 > - **Operating Systems**
