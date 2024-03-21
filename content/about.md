@@ -8,16 +8,16 @@ draft = false
 
 Hello There! I'm Luis Gonzalo Patiño. I'm a Control engineer from the National University of Colombia, Medellín Campus.  
 Currently, I'm an IT Systems Administrator at [Academia T&T](http://catc.unal.edu.co).
+![PDF logon](file-pdf-solid.svg)
 
 ## Interests and Expertise
 
-<p style="text-align: center;">
 > - **Operating Systems**
 > - **IP and IoT Networks**
 > - **Virtualization Software**
 > - **Data Security**
 > - **Low-level programming**
-</p>
+
 I've always been fascinated by technology and to learn how it works internally and resolve problems that may appear. That's why I have specialized in Networking,  with interests in deployment of Networks, troubleshooting, design of topologies, routing protocols and learn best security practices for said networks.  
 
 I also love **Operating systems**: Configuration, management and see the different approaches they take to a lot of things. I've daily driven Linux for about 3 years now (Currently using [NixOS](https://nixos.org)). This love has also driven me to learn a lot about virtualization of said operating systems, this has been accomplished by learning (and utilizing) VMware vSphere at my current job for more than 4 years now.  
