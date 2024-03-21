@@ -11,7 +11,7 @@ Currently, I'm an IT Systems Administrator at [Academia T&T](http://catc.unal.ed
 
 ## Interests and Expertise
 
-I've always been fascinated by technology and to learn how it works internally and resolve problems that may appear. That's why I have specialized in Networking,  with interests in deployment of Networks, troubleshooting, design of topologies, routing protocols and learn best security practices for said networks.
+I've always been fascinated by technology and to learn how it works internally and resolve problems that may appear. That's why I have specialized in Networking,  with interests in deployment of Networks, troubleshooting, design of topologies, routing protocols and learn best security practices for said networks.  
 I also love Operating systems, their configuration, management and ways they work similarly and differently. I've daily driven Linux for about 3 years now (Currently using NixOS). This love has also driven me to learn a lot about virtualization of said operating systems, this has been accomplished by learning (and utilizing) VMware vSphere at my current job for more than 4 years now. At home, I use Proxmox, which is and open source virtualization software. Thanks to these experiences, I have a lot of expertise when it comes to configure, deploy and provide technical support to VMs. More recently, I have also learned Docker and started replacing some VMs with Docker Containers using the Docker CLI and Compose. 
 
 I'm specialized in configuration and management of Linux and Windows servers through VMware vSphere, Proxmox, and Docker;
