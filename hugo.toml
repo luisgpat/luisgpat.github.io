@@ -15,8 +15,8 @@ style = "github-dark"
   author = "Luis Gonzalo Patiño Uribe"
   info = "Hardware and Networking Engineer"
   description = "Luis Gonzalo's personal Site"
-  keywords = "blog,developer,personal"
-  avatarurl = "logo.png"
+  keywords = "blog, developer, personal"
+  avatarurl = "me.png"
 
 
   since = 2023
