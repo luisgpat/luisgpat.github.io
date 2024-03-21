@@ -8,9 +8,8 @@ draft = false
 
 Hello There! I'm Luis Gonzalo Patiño. I'm a Control engineer from the National University of Colombia, Medellín Campus.  
 Currently, I'm an IT Systems Administrator at [Academia T&T](http://catc.unal.edu.co).
-[![PDF logon](/file-pdf-solid.svg)](/cv.pdf)
+[![PDF logon](/pdf-solid.png)](/cv.pdf)
 
-<div><a href="bar">*foo*</a></div>
 
 ## Interests and Expertise
 
